@@ -1,4 +1,5 @@
 """
+Please use this as API lib, focus on the logic in main other than API impelemtation.
 This mock CV Producer API is mean to simulate the capability of OpenCV library
 """
 
