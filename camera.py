@@ -7,6 +7,7 @@ class Camera:
 
     def populate_frame(self):
         x = []
+        y = []
         """
         Returns:
             simulate the process of reading a frame from camera
