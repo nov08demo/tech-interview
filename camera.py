@@ -6,6 +6,7 @@ This mock Camera API is mean to simulate the capability of depth sensing Camera
 class Camera:
 
     def populate_frame(self):
+        x = []
         """
         Returns:
             simulate the process of reading a frame from camera
