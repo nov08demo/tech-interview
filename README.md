@@ -1,11 +1,13 @@
-# tech-interview-python3
+# tech-interview
 
-Tech interview boilerplate - Python3
+Tech interview boilerplate 
 
-Please use this boilerplate as starting point of your code challenge.
+Please find the language you feel comfortable to use
 
-Please make sure you have access to commit your code and create new branch from Master branch.
+This boilerplate as starting point of your code challenge.
 
-We have added some dependencies you may need in requirements.txt, feel free to add/remove as you need.
+Please make sure you have access to commit your code and create new branch from any language-branch.
+
+We have added some dependencies in the boilerplate, feel free to add/remove as you need.
 
 Enjoy and good luck!
