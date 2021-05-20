@@ -1,0 +1,24 @@
+{
+  "name": "tech-interview",
+  "version": "1.0.0",
+  "description": "Tech interview boilerplate - NodeJS",
+  "main": "src/index.js",
+  "directories": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nov08demo/tech-interview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nov08demo/tech-interview/issues"
+  },
+  "homepage": "https://github.com/nov08demo/tech-interview#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0"
+  }
+}
